@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tea_group"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="@string/tea_title_group" />
+
+    <item
+        android:id="@+id/tea_course"
+        android:icon="@drawable/ic_course_black_24dp"
+        android:title="@string/title_course" />
+
+    <item
+        android:id="@+id/tea_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/title_profile" />
+
+</menu>
